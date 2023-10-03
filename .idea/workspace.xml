@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3923b94-1e60-4922-a140-fcc5287259ff" name="Changes" comment="" />
+    <list default="true" id="a3923b94-1e60-4922-a140-fcc5287259ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MartEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/HelloJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/HelloJava.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +31,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WD464LgfPutcCcZIUlvpavTRh3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,9 +42,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringExample">
     <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloJava" />
       <module name="javaStudy" />
@@ -40,8 +56,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberExample" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringExample" />
+        <item itemvalue="Application.NumberExample" />
         <item itemvalue="Application.HelloJava" />
       </list>
     </recent_temporary>
@@ -54,7 +86,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696253637712</updated>
-      <workItem from="1696253639272" duration="752000" />
+      <workItem from="1696253639272" duration="1156000" />
+      <workItem from="1696328856730" duration="1043000" />
     </task>
     <servers />
   </component>
