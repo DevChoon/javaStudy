@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3923b94-1e60-4922-a140-fcc5287259ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MartEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaStudy/HelloJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaStudy/HelloJava.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +37,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.StringExample">
+  <component name="RunManager" selected="Application.Operator">
     <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloJava" />
       <module name="javaStudy" />
@@ -63,6 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringExample" />
       <module name="javaStudy" />
@@ -72,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operator" />
         <item itemvalue="Application.StringExample" />
         <item itemvalue="Application.NumberExample" />
         <item itemvalue="Application.HelloJava" />
@@ -87,7 +91,9 @@
       <option name="presentableId" value="Default" />
       <updated>1696253637712</updated>
       <workItem from="1696253639272" duration="1156000" />
-      <workItem from="1696328856730" duration="1043000" />
+      <workItem from="1696328856730" duration="2241000" />
+      <workItem from="1696384049537" duration="39000" />
+      <workItem from="1696594456421" duration="618000" />
     </task>
     <servers />
   </component>
