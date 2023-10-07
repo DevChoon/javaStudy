@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3923b94-1e60-4922-a140-fcc5287259ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/NumberType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.Operator">
+  <component name="RunManager" selected="Application.StringType">
     <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloJava" />
       <module name="javaStudy" />
@@ -73,8 +75,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringType" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringType" />
         <item itemvalue="Application.Operator" />
         <item itemvalue="Application.StringExample" />
         <item itemvalue="Application.NumberExample" />
@@ -93,7 +103,8 @@
       <workItem from="1696253639272" duration="1156000" />
       <workItem from="1696328856730" duration="2241000" />
       <workItem from="1696384049537" duration="39000" />
-      <workItem from="1696594456421" duration="618000" />
+      <workItem from="1696594456421" duration="890000" />
+      <workItem from="1696668848260" duration="317000" />
     </task>
     <servers />
   </component>
