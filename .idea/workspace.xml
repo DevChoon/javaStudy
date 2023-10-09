@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3923b94-1e60-4922-a140-fcc5287259ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/randomNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BooleanType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BooleanType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.Input">
+  <component name="RunManager" selected="Application.randomNumber">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExample" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BooleanType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BooleanType" />
       <module name="javaStudy" />
@@ -61,20 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator" />
-      <module name="javaStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample" />
-      <module name="javaStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringType" />
       <module name="javaStudy" />
@@ -82,13 +75,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="randomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="randomNumber" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.randomNumber" />
+        <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.Input" />
         <item itemvalue="Application.BooleanType" />
         <item itemvalue="Application.StringType" />
-        <item itemvalue="Application.Operator" />
-        <item itemvalue="Application.StringExample" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +104,7 @@
       <workItem from="1696328856730" duration="2241000" />
       <workItem from="1696384049537" duration="39000" />
       <workItem from="1696594456421" duration="890000" />
-      <workItem from="1696668848260" duration="1408000" />
+      <workItem from="1696668848260" duration="5774000" />
     </task>
     <servers />
   </component>
