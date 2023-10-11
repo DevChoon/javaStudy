@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3923b94-1e60-4922-a140-fcc5287259ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/randomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionLoopEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpAndDownWithMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/acronym.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chicken.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,37 +53,37 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.randomNumber">
-    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExample" />
+  <component name="RunManager" selected="Application.MapEx">
+    <configuration name="CollectionLoopEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionLoopEx" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooleanType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleanType" />
+    <configuration name="ListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListEx" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Input" />
+    <configuration name="MapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapEx" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringType" />
+    <configuration name="UpAndDonwnWithMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpAndDonwnWithMethod" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="randomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="randomNumber" />
+    <configuration name="UpAndDownWithMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpAndDownWithMethod" />
       <module name="javaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.randomNumber" />
-        <item itemvalue="Application.ArrayExample" />
-        <item itemvalue="Application.Input" />
-        <item itemvalue="Application.BooleanType" />
-        <item itemvalue="Application.StringType" />
+        <item itemvalue="Application.MapEx" />
+        <item itemvalue="Application.CollectionLoopEx" />
+        <item itemvalue="Application.ListEx" />
+        <item itemvalue="Application.UpAndDownWithMethod" />
+        <item itemvalue="Application.UpAndDonwnWithMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +111,9 @@
       <workItem from="1696328856730" duration="2241000" />
       <workItem from="1696384049537" duration="39000" />
       <workItem from="1696594456421" duration="890000" />
-      <workItem from="1696668848260" duration="5774000" />
+      <workItem from="1696668848260" duration="9780000" />
+      <workItem from="1696923631422" duration="1313000" />
+      <workItem from="1696942067980" duration="2222000" />
     </task>
     <servers />
   </component>
