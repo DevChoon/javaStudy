@@ -8,6 +8,7 @@ public class CollectionLoopEx {
     foods.add("치킨");
     foods.add("피자");
     foods.add("햄버거");
+    foods.add("맛도리탕");
 
     for(String food: foods){
       System.out.println(food + " 맛있어요");
